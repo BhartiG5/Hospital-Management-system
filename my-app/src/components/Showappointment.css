@@ -1,0 +1,40 @@
+
+.show{
+       margin-left: 200px;
+   }
+
+.show1{
+       width: 300px;
+       margin: 10px;
+       border-radius: 5px;
+   }
+
+
+   
+   
+   .button{
+       background:grey;
+       color: azure;
+       font-size: 1rem;
+       padding: 2;
+       height: 35px;
+       text-align: center;
+       width: 100px;
+       border-radius: 8px;
+       cursor: pointer;
+   } 
+.keepercard{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border-radius: 20px;
+    margin: 2rem;
+    position: relative;
+    background:aquamarine;
+    width: 70%;
+    align-items: center;
+
+
+
+}
+   

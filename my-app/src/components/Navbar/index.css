@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(70deg, #e6e6e6, #e8afaf);
+    color: #514B64;
+    min-height: 70vh;
+  }
+  
+code {
+    background: #fff;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+    margin: 0 0.3rem;
+  }
+.image{
+    width: 500px;
+  }
+.font{
+  font-weight: 800;
+  font-size: x-large;
+}
